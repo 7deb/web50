@@ -1,0 +1,19 @@
+.nav {
+    align-items: center;
+}
+
+.logo {
+    width: 77px;
+    height: 49px;
+}
+
+.heading {
+    color: rgb(200, 46, 46);
+    font-size: .9rem;
+    margin: 9px 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+}
