@@ -14,6 +14,33 @@
 }
 
 .container {
-    max-width: 600px;
-    margin: 20px auto;
+    margin: 20px ;
+    float: left;
+    width: 40%;
 }
+.prompt {
+    clear: both;
+    margin: 10px 0;
+    width: 200px;
+    text-align: left;
+    display: inline-block;
+}
+.box {
+    float: right;
+    width:510px; /* Adjust the width as needed */
+
+}
+.prompt_top{
+    padding: 40px;
+}
+
+.search-buttons {
+    color: white;
+    margin-top: 20px; /* Adjust the margin-top as needed */
+    padding: 10px;
+}
+
+#element{
+    padding: 10px;
+}
+
